@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//Nazeervali531.github.io/Netflix/static/css/main.f8b54936.chunk.css",
+    "main.js": "/https//Nazeervali531.github.io/Netflix/static/js/main.e670d487.chunk.js",
+    "main.js.map": "/https//Nazeervali531.github.io/Netflix/static/js/main.e670d487.chunk.js.map",
+    "runtime-main.js": "/https//Nazeervali531.github.io/Netflix/static/js/runtime-main.ecb9f7c1.js",
+    "runtime-main.js.map": "/https//Nazeervali531.github.io/Netflix/static/js/runtime-main.ecb9f7c1.js.map",
+    "static/js/2.7c295ea9.chunk.js": "/https//Nazeervali531.github.io/Netflix/static/js/2.7c295ea9.chunk.js",
+    "static/js/2.7c295ea9.chunk.js.map": "/https//Nazeervali531.github.io/Netflix/static/js/2.7c295ea9.chunk.js.map",
+    "index.html": "/https//Nazeervali531.github.io/Netflix/index.html",
+    "precache-manifest.f0f66546a7784c486f93f1bd0decad4c.js": "/https//Nazeervali531.github.io/Netflix/precache-manifest.f0f66546a7784c486f93f1bd0decad4c.js",
+    "service-worker.js": "/https//Nazeervali531.github.io/Netflix/service-worker.js",
+    "static/css/main.f8b54936.chunk.css.map": "/https//Nazeervali531.github.io/Netflix/static/css/main.f8b54936.chunk.css.map",
+    "static/js/2.7c295ea9.chunk.js.LICENSE.txt": "/https//Nazeervali531.github.io/Netflix/static/js/2.7c295ea9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecb9f7c1.js",
+    "static/js/2.7c295ea9.chunk.js",
+    "static/css/main.f8b54936.chunk.css",
+    "static/js/main.e670d487.chunk.js"
+  ]
+}
